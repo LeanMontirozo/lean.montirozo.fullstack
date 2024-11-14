@@ -1,0 +1,23 @@
+{
+  "name": "skript3.js",
+  "version": "1.0.0",
+  "main": "skript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "init": "^0.1.2",
+    "mongo": "^0.1.0",
+    "mongodb": "^6.10.0",
+    "mongoose": "^8.8.1",
+    "node": "^18.20.5"
+  },
+  "description": ""
+}
